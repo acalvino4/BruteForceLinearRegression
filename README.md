@@ -18,4 +18,4 @@ If you wish to run the code yourself:
 * `anaconda-project run notebook` from local repo directory
 
 Or:
-Enter this repo's url on [juptyer nbviewer](https://nbviewer.jupyter.org/)
+Enter the .ipynb file's url on [juptyer nbviewer](https://nbviewer.jupyter.org/)
