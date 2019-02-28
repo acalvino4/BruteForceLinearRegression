@@ -2,7 +2,8 @@
 
 Given experimental data on the bounce height of differently sized bouncy balls, find a line that best fits the size-vs-bounceheight data points.
 
-View project at https://acalvino4.github.io/BruteForceLinearRegression
+View project at https://acalvino4.github.io/BruteForceLinearRegression.<br>
+Alternatively, enter the .ipynb file's url on [juptyer nbviewer](https://nbviewer.jupyter.org/).
 
 #### Approach
 
@@ -16,6 +17,3 @@ If you wish to run the code yourself:
 * import the repo locally
 * have anaconda-project [installed](https://anaconda-project.readthedocs.io/en/latest/install.html)
 * `anaconda-project run notebook` from local repo directory
-
-Or:
-Enter the .ipynb file's url on [juptyer nbviewer](https://nbviewer.jupyter.org/)
