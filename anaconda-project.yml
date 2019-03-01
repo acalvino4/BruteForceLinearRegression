@@ -35,7 +35,7 @@ description:
 commands:
 
   notebook:
-    notebook: Brute_Force_Linear_Regression.ipynb
+    notebook: BruteForceLinearRegression.ipynb
     env_spec: default
     
 #
